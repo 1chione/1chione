@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1chione
-- 👀 I’m interested in Phyton, and Javascript
+- 👀 I’m interested in Phyton, Java and Javascript
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
